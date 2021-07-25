@@ -20,17 +20,7 @@ h2 {
      text-transform: uppercase;
      text-align: center;
  }
-=======
 
-h3 {
-    text-align: center;
-    text-transform: uppercase;
-}
-h4 {
-    text-align: center;
-    }
-
->>>>>>> rama_dos
 .img {
     width: 300px;
     height: 300px;
@@ -40,9 +30,6 @@ div {
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-<<<<<<< HEAD
     margin: 25px auto ;
-=======
-    margin: 25px auto;
->>>>>>> rama_dos
+
 }
